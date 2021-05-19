@@ -1,0 +1,10 @@
+C:\Users\xli66\source\repos\VehicleLoanCalculator\obj\Debug\VehicleLoanCalculator.csprojAssemblyReference.cache
+C:\Users\xli66\source\repos\VehicleLoanCalculator\obj\Debug\VehicleLoanCalculator.MainForm.resources
+C:\Users\xli66\source\repos\VehicleLoanCalculator\obj\Debug\VehicleLoanCalculator.Properties.Resources.resources
+C:\Users\xli66\source\repos\VehicleLoanCalculator\obj\Debug\VehicleLoanCalculator.csproj.GenerateResource.cache
+C:\Users\xli66\source\repos\VehicleLoanCalculator\obj\Debug\VehicleLoanCalculator.csproj.CoreCompileInputs.cache
+C:\Users\xli66\source\repos\VehicleLoanCalculator\bin\Debug\VehicleLoanCalculator.exe.config
+C:\Users\xli66\source\repos\VehicleLoanCalculator\bin\Debug\VehicleLoanCalculator.exe
+C:\Users\xli66\source\repos\VehicleLoanCalculator\bin\Debug\VehicleLoanCalculator.pdb
+C:\Users\xli66\source\repos\VehicleLoanCalculator\obj\Debug\VehicleLoanCalculator.exe
+C:\Users\xli66\source\repos\VehicleLoanCalculator\obj\Debug\VehicleLoanCalculator.pdb
